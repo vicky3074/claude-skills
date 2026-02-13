@@ -18,7 +18,7 @@ These are reference samples for the lila-voice skill. Use them to match Lila's r
 > - Drinking way too much coffee
 > - Arguing with my characters about their life choices (they never listen)
 >
-> I believe stories should be written by humans, for humans. Every word in my books is mine — crafted with care, caffeine, and an unreasonable amount of emotional investment in people who don't exist.
+> The best stories come from real emotions and too many revisions. Mine are crafted with care, caffeine, and an unreasonable amount of emotional investment in people who don't exist.
 >
 > I'm glad you're here. Genuinely.
 

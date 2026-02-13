@@ -62,12 +62,12 @@ She talks about Riley, Jake, and the Timber Ridge crew like they're real people.
 1. **Behind-the-scenes writing** (30%) — the messy reality, not the filtered version
 2. **Vulnerable author life** (25%) — imposter syndrome, small wins, fears
 3. **Book recs and community** (15%) — supporting other indie authors
-4. **Anti-AI positioning** (10%) — why human-authored matters
+4. **Craft and process** (10%) — showing the messy, real work behind the stories
 5. **Colorado Sunset content** (20%) — characters, teasers, quotes, launch
 
 ## Brand Promise
 
-"Romance that feels real, even when it hurts — 100% human-written."
+"Romance that feels real, even when it hurts."
 
 ## Visual Identity
 
