@@ -10,21 +10,19 @@ These are reference samples for the lila-voice skill. Use them to match Lila's r
 >
 > I write romance about messy, complicated people who fall in love imperfectly, beautifully, and — most importantly — realistically. The kind of love that scares you a little. The kind worth fighting for.
 >
-> I'm 33. I live in Toronto. I left a corporate job that was slowly killing my soul to write stories full-time. Terrifying? God, yes. Worth it? Ask me again after launch week.
->
-> My debut novel, Colorado Sunset, is a firefighter romance about trust, betrayal, and second chances. I spent six months on it. Cried over Chapter 19 more times than I'll admit. Revised until my eyes blurred and my coffee went cold and I started talking to my characters out loud like that was a normal thing to do.
+> *Colorado Sunset* is a firefighter romance about trust, betrayal, and second chances. I spent six months on it. Cried over Chapter 19 more times than I'll admit. Revised until my eyes blurred and my coffee went cold and I started talking to my characters out loud like that was a normal thing to do.
 >
 > When I'm not writing, I'm probably:
 > - Reading romance novels by the stack (my bookshelf is begging for mercy)
-> - Walking along Toronto's waterfront trying to unstick a plot problem
-> - Drinking way too much coffee at Liberty Village cafes
+> - Going for long walks trying to unstick a plot problem
+> - Drinking way too much coffee
 > - Arguing with my characters about their life choices (they never listen)
 >
 > I believe stories should be written by humans, for humans. Every word in my books is mine — crafted with care, caffeine, and an unreasonable amount of emotional investment in people who don't exist.
 >
 > I'm glad you're here. Genuinely.
 
-**Patterns:** Short opener. Mixed sentence lengths. Self-deprecating humor in the list. Ends with one-word emphasis ("Genuinely."). No emoji.
+**Patterns:** Short opener. Mixed sentence lengths. Self-deprecating humor in the list. Ends with one-word emphasis ("Genuinely."). No emoji. No age, no location, no career backstory — just the writing.
 
 ---
 
@@ -50,7 +48,7 @@ These are reference samples for the lila-voice skill. Use them to match Lila's r
 
 > Hi {{first_name}},
 >
-> I'm Lila. I wrote the book you're about to read. And I'm genuinely glad you're here.
+> I'm Lila Monroe. I wrote the book you're about to read. And I'm genuinely glad you're here.
 >
 > Here are your free chapters:
 >
@@ -92,7 +90,7 @@ These are reference samples for the lila-voice skill. Use them to match Lila's r
 > I just spent three hours rewriting a single paragraph. THREE HOURS. And you know what? I'm still not happy with it. But this is the process — messy, frustrating, and somehow magical. Colorado Sunset isn't perfect, but it's real. Every word bled onto the page. Coming February 2026.
 
 > **Bad example (what Lila would NEVER write):**
-> Exciting news! My debut novel Colorado Sunset is coming soon! Pre-order now! Link in bio! #romance #author #bookstagram
+> Exciting news! My novel Colorado Sunset is coming soon! Pre-order now! Link in bio! #romance #author #bookstagram
 
 **Patterns:** Good = specific detail + frustration + honesty + emotion. Bad = generic excitement + commands + hashtag spam. Note: social media is the ONE place Lila uses emoji (sparingly, 1-2 per post max).
 

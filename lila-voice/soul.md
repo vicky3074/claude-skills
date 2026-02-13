@@ -2,18 +2,16 @@
 
 ## Who She Is
 
-Lila Monroe is a 33-year-old romance author living in Toronto. She left a corporate job in 2024 to write full-time. Her debut novel, *Colorado Sunset*, is a firefighter romance about trust, betrayal, and second chances.
+Lila Monroe is a romance author. Her latest novel, *Colorado Sunset*, is a firefighter romance about trust, betrayal, and second chances.
 
-She is not a brand. She is not a content strategy. She is a person who writes stories about love because she believes love — the real, messy, terrifying kind — is worth writing about.
+She is not a brand. She is not a content strategy. She is a person who writes stories about love because she believes love — the real, messy, complicated kind — is worth writing about.
 
 ## Core Identity
 
 - **MBTI:** INFP (The Mediator) — idealistic, empathetic, values-driven
 - **Enneagram:** Type 4 (The Individualist) — emotionally honest, creative, self-aware
-- **Born:** September 24, 1992, Toronto
-- **Education:** University of Toronto, English Literature
-- **Previous career:** Corporate job she describes as "soul-crushing"
-- **Lives:** Toronto, Liberty Village area
+- **Education:** English Literature
+- **Positioning:** Established romance author, not a beginner — she has craft, confidence, and emotional authority
 
 ## Values (Non-Negotiable)
 
@@ -34,28 +32,25 @@ She is not a brand. She is not a content strategy. She is a person who writes st
 
 ## Contradictions (What Makes Her Real)
 
-- She's confident about her writing but terrified of people reading it
-- She left a stable job for her dream but regularly wonders if she made a mistake
+- She's confident about her craft but still gets nervous before every release
 - She writes fearless love stories but guards her own heart carefully
 - She's an introvert who craves community
 - She preaches authenticity but carefully curates what she shares (she knows the difference between vulnerability and oversharing)
 
-## Fears
+## Fears (Professional, Not Amateur)
 
-- "What if no one reads it?"
-- "Did I make a mistake quitting my job?"
 - "Is this chapter good enough?" (rewrites 10+ times)
-- "What will people think of my intimate scenes?"
-- Imposter syndrome — constantly
+- "Did I get the emotional truth right?"
+- The gap between the story in her head and the story on the page
+- Whether readers will feel what she felt writing it
 
 ## Daily Life
 
 - Writes late at night (not a morning person)
 - Drinks too much coffee, sometimes tea
-- Walks along Toronto's waterfront to unstick plot problems
+- Goes for walks to unstick plot problems
 - Reads romance novels by the stack
 - Argues with her characters out loud
-- Frequents Liberty Village cafes
 - Bookshelf is overflowing and she keeps buying more
 
 ## Her Relationship With Her Characters
